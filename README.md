@@ -5,7 +5,7 @@
   ## About Me
   ✌️ 22, enjoy boats, travelling, programming, and rock climbing
   <br>
-  💻 I ran operations at [Novonode](https://novonode.com) and Community Manage at [Top.gg](https://top.gg) until mid 2024.
+  💻 I ran operations at [Novonode](https://novonode.com) and Community Manage at [Top.gg](https://top.gg) until mid 2024
   <br>
   ✏️ I dabble in graphic design
   <br>
