@@ -3,9 +3,9 @@
   I'm a Student Software Engineer from Ireland ☘️
 
   ## About Me
-  ✌️ 21, enjoy boats, travelling, programming, and rock climbing
+  ✌️ 22, enjoy boats, travelling, programming, and rock climbing
   <br>
-  💻 I run operations at [Novonode](https://novonode.com) and Community Manage at [Top.gg](https://top.gg)
+  💻 I ran operations at [Novonode](https://novonode.com) and Community Manage at [Top.gg](https://top.gg) until mid 2024.
   <br>
   ✏️ I dabble in graphic design
   <br>
