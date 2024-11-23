@@ -1,6 +1,6 @@
 <samp>
   <h3>👋 Hi there! I'm Dylan.</h3>
-  I'm a Student Software Engineer from Ireland ☘️
+  I'm a Software Engineer from Ireland ☘️
 
   ## About Me
   ✌️ 22, enjoy boats, travelling, programming, and rock climbing
