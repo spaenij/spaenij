@@ -11,7 +11,7 @@
   <br>
   🔗 Checkout my personal site [tbc](tbc)
   <br>
-  📧 Reach out to me: [tbc](tbc)
+  📧 Reach out to me: [dylan@spaenij.com](mailto:dylan@spaenij.com)
 </samp>
 
 ## My Tech Stack
